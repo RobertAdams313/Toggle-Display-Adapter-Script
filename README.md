@@ -3,3 +3,5 @@
 # *The .ps1 file has to be run as admin
 
 It just toggles your display adapters off and then back on. I used this because when I would disconnect my laptop from an external dispaly, the brightness would be stuck super low. Doing this would fix it. Figured I'd share it.
+
+Just put the .ps1 file at the root of your c drive and double click the .bat file. You can edit the file path if you want to change it. 
